@@ -1,0 +1,640 @@
+[
+  {
+    "title": "空调",
+    "child": [
+      {
+        "img": "images/kt1.jpg",
+        "title": "空调大1匹挂机 定频冷暖",
+        "price": "¥1849"
+      },
+      {
+        "img": "images/kt2.jpg",
+        "title": "空调大1.5匹挂机 定频冷暖",
+        "price": "¥2499"
+      },
+      {
+        "img": "images/kt3.jpg",
+        "title": "空调大2匹柜 定频冷暖",
+        "price": "¥4699"
+      },
+      {
+        "img": "images/kt4.jpg",
+        "title": "空调变频大1.5匹 定频冷暖",
+        "price": "¥2849"
+      }
+    ]
+  },{
+  	"title":"空调",
+  	"child":[{
+  	"a":"壁挂式空调"
+  	},{
+  	"a":"立柜式空调"
+  	},{
+  	"a":"中央空调"
+  	},{
+  	"a":"嵌入式及其他空调"
+  	}]
+  },
+  {
+    "title": "冰箱",
+    "child": [
+      {
+        "img": "images/bx1.jpg",
+        "title": "冰箱三门三温一级能效",
+        "price": "¥1199"
+      },
+      {
+        "img": "images/bx2.jpg",
+        "title": "三门冰箱246升风冷无霜",
+        "price": "¥1899"
+      },
+     
+      {
+        "img": "images/bx3.jpg",
+        "title": "【保价双11】冰箱 风冷无霜",
+        "price": "¥3199"
+      },
+      {
+        "img": "images/bx4.jpg",
+        "title": "【保价双11！！】冰箱529",
+        "price": "¥4099"
+      }
+    ]
+  }, 
+  {
+  	"title":"冰箱",
+  	"child":[{
+  	"a":"单门式冰箱"
+  	},{
+  	"a":"双门式冰箱"
+  	},{
+  	"a":"多门式冰箱"
+  	},{
+  	"a":"三门式冰箱"
+  	},{
+  	"a":"对开门式冰箱"
+  	},{
+  	"a":"冷柜"
+  	},{
+  	"a":"定制冰箱"
+  	}]
+  },
+  {
+    "title": "洗衣机",
+    "child": [
+      {
+        "img": "images/xyj1.jpg",
+        "title": "波轮洗衣机MB80-eco11W",
+        "price": "¥998"
+      },
+      {
+        "img": "images/xyj2.jpg",
+        "title": "洗衣机6.5KG波轮",
+        "price": "¥858"
+      },
+      {
+        "img": "images/xyj3.jpg",
+        "title": "洗衣机7KG滚筒 智能遥控",
+        "price": "¥1161"
+      },
+      {
+        "img": "images/xyj4.jpg",
+        "title": "洗衣机7.5k波轮App智能",
+        "price": "¥918"
+      }
+    ]
+  },
+   {
+  	"title":"洗衣机",
+  	"child":[{
+  	"a":"滚筒洗衣机"
+  	},{
+  	"a":"波轮洗衣机"
+  	},{
+  	"a":"双缸洗衣机"
+  	},{
+  	"a":"干衣机"
+  	}]
+  },
+  {
+    "title": "厨房小电",
+    "child": [
+      {
+        "img": "images/cfxd1.jpg",
+        "title": "【WiFi智控】电压力锅 高压",
+        "price": "¥499"
+      },
+      {
+        "img": "images/cfxd2.jpg",
+        "title": "电磁炉彩板设计 二级能效",
+        "price": "¥229"
+      },
+      {
+        "img": "images/cfxd3.jpg",
+        "title": "电饭煲 4L容量 地道柴火饭",
+        "price": "¥239"
+      },
+      {
+        "img": "images/cfxd4.jpg",
+        "title": "【预售到手价399元】电烤箱",
+        "price": "¥439"
+      }
+    ]
+  },
+   {
+  	"title":"厨房小电",
+  	"child":[{
+  	"a":"电烤箱"
+  	},{
+  	"a":"微波炉"
+  	},{
+  	"a":"电磁炉"
+  	},{
+  	"a":"电炖锅"
+  	},{
+  	"a":"电饭煲"
+  	},{
+  	"a":"电压力锅"
+  	},{
+  	"a":
+  	"电蒸锅"
+  	},{
+  	"a":"豆浆机"
+  	},{
+  	"a":"面条机"
+  	},{
+  	"a":"煎烤箱/电饼铛"
+  	},{
+  	"a":"榨汁机"
+  	}]
+  },
+  {
+    "title": "厨房大电",
+    "child": [
+      {
+        "img": "images/cfdd1.jpg",
+        "title": "【预定微波炉】",
+        "price": "¥2399"
+      },
+      {
+        "img": "images/cfdd2.jpg",
+        "title": "【预定送烤箱】",
+        "price": "¥2799"
+      },
+      {
+        "img": "images/cfdd3.jpg",
+        "title": "大吸力吸油烟机",
+        "price": "¥1498"
+      },
+      {
+        "img": "images/cfdd4.jpg",
+        "title": "吸油烟机17.5大吸力专利",
+        "price": "¥1498"
+      }
+    ]
+  },
+   {
+  	"title":"厨房大电",
+  	"child":[{
+  	"a":"吸油烟机"
+  	},{
+  	"a":"消毒柜"
+  	},{
+  	"a":"燃气灶"
+  	},{
+  	"a":"洗碗机"
+  	},{
+  	"a":"烟灶套装"
+  	}]
+  },
+  {
+    "title": "生活家电",
+    "child": [
+      {
+        "img": "images/shjd1.jpg",
+        "title": "【时尚款】电水壶1.7L",
+        "price": "¥89"
+      },
+      {
+        "img": "images/shjd2.jpg",
+        "title": "电暖气/取暖器/电暖气NY2",
+        "price": "¥309"
+      },
+      {
+        "img": "images/shjd3.jpg",
+        "title": "电暖气/取暖器/电暖气",
+        "price": "¥569"
+      },
+      {
+        "img": "images/shjd4.jpg",
+        "title": "电暖气/取暖器/电暖气NDK",
+        "price": "¥299"
+      }
+    ]
+  },
+  {
+  	"title":"生活家电",
+  	"child":[{
+  	"a":"吸尘器"
+  	},{
+  	"a":"空气净化器"
+  	},{
+  	"a":"挂烫机"
+  	},{
+  	"a":"除湿机"
+  	},{
+  	"a":"扫地机器人"
+  	},{
+  	"a":"加湿机"
+  	},{
+  	"a":
+  	"健康秤"
+  	},{
+  	"a":"电水壶"
+  	},{
+  	"a":"电风扇"
+  	},{
+  	"a":"电暖气"
+  	},{
+  	"a":"电热水瓶"
+  	}]
+  },
+  
+  {
+    "title": "热水器/净水机",
+    "child": [
+      {
+        "img": "images/rsq1.jpg",
+        "title": "电热水器80升e+增容",
+        "price": "¥1399"
+      },
+      {
+        "img": "images/rsq2.jpg",
+        "title": "电热水器60升",
+        "price": "¥999"
+      },
+      {
+        "img": "images/rsq3.jpg",
+        "title": "燃气热水器 三挡变升",
+        "price": "¥1399"
+      },
+      {
+        "img": "images/rsq4.jpg",
+        "title": "【双出水】净水机 6级超滤",
+        "price": "¥2198"
+      }
+    ]
+  },
+  {
+  	"title":"热水器/净水机",
+  	"child":[{
+  	"a":"燃气热水器"
+  	},{
+  	"a":"电热水器"
+  	},{
+  	"a":"空气能热水器"
+  	},{
+  	"a":"净水机"
+  	},{
+  	"a":"饮水机/净饮机"
+  	},{
+  	"a":"壁挂炉"
+  	},{
+  	"a":
+  	"饮水机"
+  	}]
+  },
+  {
+    "title": "配件及周边",
+    "child": [
+      {
+        "img": "images/pj1.jpg",
+        "title": "电子礼品卡 1000面值",
+        "price": "¥1000"
+      },
+      {
+        "img": "images/pj2.jpg",
+        "title": "电子礼品卡200元面值",
+        "price": "¥200"
+      },
+      {
+        "img": "images/pj3.jpg",
+        "title": "【风暖卫士】浴霸",
+        "price": "¥599"
+      },
+      {
+        "img": "images/pj4.jpg",
+        "title": "M2净水机专用滤芯",
+        "price": "¥325"
+      }
+    ]
+  },
+  {
+  	"title":"配件及周边",
+  	"child":[{
+  	"a":"插座"
+  	},{
+  	"a":"灯"
+  	},{
+  	"a":"净水器滤网"
+  	},{
+  	"a":"净水机滤芯"
+  	},{
+  	"a":"五谷杂粮"
+  	},{
+  	"a":"浴霸"
+  	},{
+  	"a":
+  	"食物垃圾处理器"
+  	},{
+  	"a":"打蛋器"
+  	},{
+  	"a":"花茶"
+  	},{
+  	"a":"礼品卡"
+  	},{
+  	"a":"冰箱收纳"
+  	}]
+  },
+  {
+    "title": "轮播图",
+    "child": [
+      {
+        "img": "images/lb1.jpg"
+      },
+      {
+        "img": "images/lb2.jpg"
+      },
+      {
+        "img": "images/lb3.jpg"
+      },
+      {
+        "img": "images/lb4.jpg"
+      },
+      {
+        "img": "images/lb5.jpg"
+      },
+      {
+        "img": "images/lb1.jpg"
+      }
+    ]
+  },
+  {
+    "title": "明星单品上",
+    "child": [
+      {
+        "img": "images/mxs1.jpg"
+      },
+      {
+        "img": "images/mxs2.jpg"
+      },
+      {
+        "img": "images/mxs3.jpg"
+      },
+      {
+        "img": "images/mxs4.jpg"
+      }
+    ]
+  },
+  {
+    "title": "",
+    "child": [
+      {
+        "img": "images/mxdpgt.jpg",
+        "price": "¥1298",
+        "yh":"限时特惠"
+      }]
+   },
+   {
+   "child":[   
+      {
+        "img": "images/mxdphg.jpg",
+        "title": "【火锅神器】 一键火锅 全套火锅配件 电磁炉",
+        "price": "¥399",
+        "action":"11.11狂欢"
+      },
+      {
+        "img": "images/mxdpbyg.jpg",
+        "title": "IH环绕加热 香甜不溢锅 4L饭煲 ",
+        "price": "¥499",
+        "action":"11.11狂欢"
+      },
+      {
+        "img": "images/mxdprsq.jpg",
+        "title": "三档变升 变频恒温 燃气热水器",
+        "price": "¥1199",
+        "action":"11.11狂欢"
+      },
+      {
+        "img": "images/mxdpdylig.jpg",
+        "title": "精钢厚釜 电压力锅 高压浓香 5L电压力锅 ",
+        "price": "¥499",
+        "action":"11.11狂欢"
+      }]
+ },
+ {
+ 		"child":[
+      {
+        "img": "images/zqyyz.jpg",
+        "price": "¥2399",
+        "action":"11.11狂欢"
+      }]
+  },
+  {
+  	"child" :[   
+      {
+        "img": "images/pbj.jpg",
+        "title": "【WiFi智能】浓香破壁 智能预约 破壁机",
+        "price": "¥1299"
+      },
+      {
+        "img": "images/shjd3.jpg",
+        "title": "双U管加热；高温超导热油；定时预约电暖器",
+        "price": "¥569"
+      }]
+   },
+  {
+      "child":[
+      {
+        "img": "images/aliyunkt.jpg",
+        "price": "¥1849"
+      }
+    ]
+  },
+  {
+    "title": "会员专区四图",
+    "child": [
+      {
+        "img": "images/hy1.jpg",
+        "value":"立即查看"
+      },
+      {
+        "img": "images/hy2.jpg",
+        "value":"立即兑换"
+      },
+      {
+        "img": "images/hy3.jpg",
+        "value":"立即抽奖"
+      },
+      {
+        "img": "images/hy4.jpg",
+        "value":"立即参与"
+      }
+    ]
+  },{
+      "child":[
+      {
+        "title":"新闻中心"
+      },{
+        "title":"关于美的"
+      },{
+        "title":"投资者关系"
+      },{
+        "title":"服务支持"
+      },{
+        "title":"网站信息"
+      },{
+        "title":"解决方案"
+      },{
+        "title":"友情链接"
+      },{
+        "title":"帮助中心"
+      }
+    ]
+},
+{
+			"child":[{
+			"title":"集团新闻"
+			},{
+			"title":"产品新闻"
+			}]  
+},{
+      "child":[
+      {
+        "title":"集团概况"
+      },{
+        "title":"美的历史"
+      },{
+        "title":"美的大事记"
+      },{
+        "title":"品牌战略"
+      },{
+        "title":"美的文化"
+      },{
+        "title":"企业责任"
+      },{
+        "title":"美的荣誉"
+      },{
+        "title":"科技创新"
+      },{
+        "title":"人才招聘"
+      },{
+        "title":"微博微信"
+      }
+    ]
+},{
+      "child":[
+      {
+        "title":"库卡要约"
+      },{
+        "title":"至投资者"
+      },{
+        "title":"美的大事记"
+      },{
+        "title":"公司治理"
+      },{
+        "title":"临时公告"
+      },{
+        "title":"财务信息"
+      },{
+        "title":"股票信息"
+      },{
+        "title":"信用评级"
+      },{
+        "title":"公平在身边"
+      },{
+        "title":"投资者咨询"
+      }
+    ]
+},{
+      "child":[
+      {
+        "title":"收费标准"
+      },{
+        "title":"安装报修预约"
+      },{
+        "title":"服务网点查询"
+      },{
+        "title":"进度查询"
+      },{
+        "title":"服务详情"
+      }
+    ]
+},{
+      "child":[
+      {
+        "title":"联系我们"
+      },{
+        "title":"服务条款"
+      },{
+        "title":"隐私政策"
+      }
+    ]
+},{
+      "child":[
+      {
+        "title":"中央空调"
+      },{
+        "title":"家用空调"
+      },{
+        "title":"净水机"
+      },{
+        "title":"商用厨房"
+      }
+    ]
+},{
+      "child":[
+      {
+        "title":"中国家电网"
+      },{
+        "title":"艾肯家电网"
+      },{
+        "title":"会从家电网"
+      },{
+        "title":"家电网"
+      },{
+        "title":"美的制冷服务网"
+      },{
+        "title":"安得物流"
+      },{
+        "title":"小天鹅商城"
+      },{
+        "title":"科技创新"
+      }
+    ]
+},{
+      "child":[
+      {
+        "title":"帮助中心首页"
+      },{
+        "title":"购物指南"
+      },{
+        "title":"账号与安全"
+      },{
+        "title":"发货&物流问题"
+      },{
+        "title":"发票问题"
+      },{
+        "title":"退货&售后问题"
+      },{
+        "title":"活动与优惠"
+      },{
+        "title":"美的社区"
+      },{
+        "title":"会员权益"
+      },{
+        "title":"支付问题"
+      }
+    ]
+}
+]

@@ -1,0 +1,157 @@
+.car_main{
+	min-height:800px;
+	width:100%;
+	background:#f3f3f3;
+	
+}
+.car_main #shopCar_box{
+	overflow: hidden;
+	width:1100px;
+	min-height:500px;
+	background:white;
+	margin:0 auto;
+}
+.car_main h1{
+	width:200px;
+	height:80px;
+	line-height: 80px;
+	margin-left: 86px;;
+}
+
+.car_main #shopCar_box #none img{
+	display: block;
+	margin:0 auto;
+	margin-top: 20px;
+	
+}
+.car_main #shopCar_box #none input{
+	background:none;
+	width:80px;
+	height:40px;
+	border: 1px solid gray;
+	margin-top: 20px;
+	
+}
+.car_main #shopCar_box #none .ipt1{
+	margin-left: 476px;
+}
+.header{
+	width:1000px;
+	overflow: hidden;
+	height:50px;
+	background:lightskyblue;
+	margin:10px auto;
+}
+.header li{
+			float:left;
+			width:200px;
+			text-align:center;
+			line-height:50px;
+			height:49px;
+			border-bottom:1px solid #000;
+		}
+		
+		
+		/*//购物车*/
+		#goodsList dl{
+			overflow:hidden;
+			padding:10px 0;
+			border-bottom:1px solid #ccc;
+		}
+		#goodsList dl dt,#goodsList dl dd{
+			float:left;
+		}
+		#goodsList dl dt{
+			width:180px;
+			height:60px;
+		}
+		#goodsList dl dt input{
+			display:inline-block;
+			margin-left:67px;
+			margin-top:10px;
+		}
+		#goodsList dl dt a{
+			margin-top:-31px;
+			
+			margin-left:123px;
+			width:160px;
+			height:60px;
+			display:inline-block;
+			font-size:14px;
+		}
+		#goodsList dl dt img{
+			width:60px;
+			height:60px;
+			display:block;
+			border:0;
+			float:left;
+		}
+		#goodsList dl dt span{
+			float:left;
+			width:100px;
+		}
+		#goodsList dl dd{
+			line-height:60px;
+		}
+		.oSize{
+			width:60px;
+			text-align:center;
+			margin-left:145px;
+		}
+		.oNumber{
+			width:60px;
+			text-align:center;
+			margin-left:141px;
+		}
+		.oPrice{
+			width:60px;
+			text-align:center;
+			margin-left:140px;
+		}
+		#goodsList dl .oDelet{
+			font-size:14px;
+			background:red;
+			color:#ffffff;
+			border-radius:3px;
+			line-height:30px;
+			margin-top:14px;
+			cursor:pointer;
+			margin-left:20px;
+		}
+		.oAprice{
+			margin-left:157px;
+		}
+		
+		
+		/*底部结算*/
+.footer{
+	margin: 20px auto;
+    background:lightskyblue;
+	width:1000px;
+	height:60px;
+	
+}
+.footer input{
+			width:80px;
+			height:30px;
+			border:0;
+			background:red;
+			color:#ffffff;
+			font-size:20px;
+			border-radius:4px;
+			outline:none;
+			margin-right: 10px;
+			float: right;
+			margin: 10px;;
+		}
+.footer span{
+	display: block;
+			font-size:20px;
+			padding:5px 0;
+			color:red;
+			margin: 10px;
+			float:right;
+		}
+.footer span em{
+			font-style:normal;
+		}

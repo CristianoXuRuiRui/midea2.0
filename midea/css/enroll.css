@@ -1,0 +1,123 @@
+#center{
+	width:1190px;
+	height:620px;
+	border-bottom: 2px solid #f3f3f3;
+	border-top: 2px solid #f3f3f3;
+	margin: 0 auto ;
+}
+#center #center_left{
+	display: inline-block;
+	margin:112px;	
+}
+
+#center #center_right{
+	float: right;
+	margin:30px 100px 0 0;
+	padding:30px 38px 38px;
+	border:2px solid #f3f3f3;
+	width:300px;
+	min-height: 400px;
+	font-weight: 300;
+	position:relative;
+}
+#center #center_right form input{
+	width:240px;
+	height:40px;
+	line-height: 40px;
+	color:darkgray;
+	margin-top:10px;
+	padding-left:10px;
+	padding-right:30px;
+	border:none;
+	border: 1px solid lightslategray;
+}
+#center #center_right form p{
+	width:200px;
+	height:20px;
+}
+#center #center_right form #showyzm{
+	width:90px;
+	color:white;
+	/*background:darkgoldenrod;*/
+	height:51px;
+	line-height: 51px;
+	font-size: 25px;
+	text-align: center;
+	display: inline-block;
+	margin-left:5px;
+	background:url(../images/bg1.jpg)
+}
+#center #center_right form #yzm{
+	width:150px;
+	
+}
+#center #center_right form #btn{
+	background:blue;
+	border:0;
+	color:#ffffff
+}
+#center #center_right form #btn:hover{
+	background: #0092b8;
+}
+#center #center_right form .have{
+	display: inline-block;
+	color:darkgray;
+	margin-top:10px;
+	margin-right: 100px;
+	margin-bottom:20px;
+}
+#center #center_right form .have:hover{
+	color:red;
+}
+#center #center_right form .three{
+	display: inline-block;
+	color:#0092b8;
+}
+#center #center_right form .three:hover{
+	color:red;
+}
+#center #center_right form #btn{
+	width:285px;
+}
+#center #center_right form p{
+	display:none;
+}
+#foot{
+	color:darkgray;
+	text-align: center;
+	margin:20px auto;
+	width:500px;
+	height:30px;
+	line-height: 30px;
+	margin-bottom: 100px;
+}
+#center #center_right form #pbord{
+	width:20px;
+	height:15px;
+	position: absolute;
+	display: block;
+	left:244px;
+	top:13px;
+	
+}
+#center #center_right form #rbord{
+	width:20px;
+	height:15px;
+	position: absolute;
+	left:244px;
+	top:13px;
+	display: block;
+	
+}
+#center #center_right form #pdiv,#rdiv{
+	position: relative;
+	margin-top:10px;
+}
+#center #center_right form #pdiv #password{
+	margin-top:0;
+	
+}
+#center #center_right form #rdiv #repassword{
+	margin-top:0;
+}
+

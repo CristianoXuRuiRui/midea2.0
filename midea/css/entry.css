@@ -1,0 +1,96 @@
+#center{
+	width:1190px;
+	height:620px;
+	border-bottom: 2px solid #f3f3f3;
+	border-top: 2px solid #f3f3f3;
+	margin: 0 auto ;
+}
+#center #center_left{
+	display: inline-block;
+	margin:112px;	
+}
+
+#center #center_right{
+	float: right;
+	margin:70px 100px 0 0;
+	padding:30px 38px 38px;
+	border:2px solid #f3f3f3;
+	width:300px;
+	min-height: 400px;
+	font-weight: 300;
+	position: relative;
+}
+#foot{
+	color:darkgray;
+	text-align: center;
+	margin:20px auto;
+	width:500px;
+	height:30px;
+	line-height: 30px;
+	margin-bottom: 100px;
+}
+#tool{
+	border-bottom:2px solid darkgray;
+	width: 270px;
+	height:80px;
+}#tool a{
+	display: inline-block;
+	margin:10px;
+}
+#center #center_right form input{
+	width:240px;
+	height:40px;
+	line-height: 40px;
+	color:darkgray;
+	margin-top:20px;
+	padding-left:10px;
+	padding-right: 30px;
+	border:none;
+	border:1px solid lightslategray
+}
+#center #center_right form a{
+	display: inline-block;
+	color: darkgray;
+	margin-top: 50px;
+}
+#center #center_right form a:hover
+{
+	color:darkgoldenrod;
+}
+#center #center_right form #line{
+	height:12px;
+	color:darkgray;
+	margin-right: 20px;
+}
+#center #center_right form #message{
+	margin-right: 20px;
+}
+#center #center_right form #get{
+	margin-left: 50px;;
+}
+#center #center_right form #btn{
+	width:285px;
+	background:blue;
+	border:0;
+	color:#ffffff
+}
+#center #center_right form #btn:hover{
+	background: #0092b8;
+}
+#center #center_right form #error{
+	width:270px;
+	height:15px;
+	display:none;
+}
+#center #center_right form #p_box #pbord{
+	width:20px;
+	height:15px;
+	position: absolute;
+	display: block;
+	left:250px;
+	top:35px;
+	
+}
+#center #center_right form #p_box{
+	position: relative;
+}
