@@ -273,21 +273,35 @@ $.ajax({
 					$(this).find("#right").css("opacity","0")
 				})
 				$("#main_top_right").find("#left").click(function(){
-					oul.animate({left:left += 1000})
-					iNow++;
+					iNow--;
+					oul.animate({left:left+=1000},500,function(){
+						if(left == -0){
+								left=-5000
+							}
+					})
+					
 					btn.css("background","white");
 					btn.eq(iNow).css("background","blue")
 					
+					
+					
 				})
 				$("#main_top_right").find("#right").click(function(){
-					oul.animate({left:left -= 1000})
-					iNow--;
+					iNow++;
+					oul.animate({left:left -=1000},500
+					,function(){
+							if(left == -5000){
+								left=0
+							}
+						}
+					)
+					
+				
 					btn.css("background","white");
 					btn.eq(iNow).css("background","blue")
-					if(iNow == 0){
-						iNow = 0;
-						oul.css("left",0)
-					}
+					
+					
+					
 				})
 				function tab(){
 					btn.css("background","white");

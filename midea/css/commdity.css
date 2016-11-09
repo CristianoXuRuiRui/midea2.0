@@ -189,6 +189,12 @@
 	margin-left:10px;
 	height:25px;
 }
+#goods_detali_left_bottom #star img{
+	width:20px;
+	height:20px;	
+}
+	
+}
 #goods_detali_left_bottom{
 	padding-left: 50px;
 }

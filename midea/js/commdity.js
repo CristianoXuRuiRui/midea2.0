@@ -140,6 +140,7 @@ window.onload = function(){
 	
 	var speed = 0;
 	$("#gotop4").click(function(){
+	
 		var scrollTop = document.documentElement.scrollTop||document.body.scrollTop;
 	speed=(0-scrollTop)/10;
 		//alert(scrollTop)
@@ -150,12 +151,17 @@ window.onload = function(){
 			clearInterval(timer)
 		}
 	})
+	var goodsId = document.getElementById("goodsId");
+	var goods_detali_left_center = document.getElementById("goods_detali_left_center");
+	var oli = goods_detali_left_center.getElementsByTagName("li")[0];
+	var oimg = oli.getElementsByTagName("img")[0];
 	$("#star").click(function(){
-		$("#coll").html("已收藏")
-		$(this).find("img").attr("src","../images/yx.jpg");
+		$("#coll").html("已收藏");
 		
-		window.location.href = "collect.html";
-		
+		var	val='id#'+goodsId.value+'|name#'+name.innerHTML+'|imgUrl#'+oimg.src+'|price#'+price.innerHTML+'|url#'+window.location.href;
+		cookie('goods'+goodsId.value,val,10);
+		//window.location.href = "collect.html";
+		alert('goods'+goodsId.value)
 				
 		})
 	//评论栏、商品图片栏切换
@@ -183,11 +189,30 @@ var	val='id#'+goodsId.value+'|name#'+name.innerHTML+'|imgUrl#'+bigpic11.src+'|pr
 	cookie('goods'+goodsId.value+color1.innerHTML,val,10);
 	
 	}
+        
+        
+        
         $("#car").mouseover(function(){
 			$(this).find("#car_detali").html("购物车有"+number2.value+"件商品").click(function(){
 				window.location.href = "shopCar.html"
 			})
 		})
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
 	$("#deng").click(function(){
 		window.location.href = "entry.html"
 	})
